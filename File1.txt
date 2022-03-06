@@ -6,3 +6,4 @@ Change 3 - commit with message as "Made new change in TestFile on idea branch"
 
 Change 4 - commit with message as “Made new change in TestFile on master branch”
 
+Task Completed
